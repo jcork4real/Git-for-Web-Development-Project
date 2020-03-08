@@ -1,0 +1,15 @@
+I. Link to completed CodePen from part 2: 
+	A. UI I: Project 2 - Sweet Eats Bakery Style
+		
+		1. https://codepen.io/jcork4real/pen/bGdYoZL
+
+
+II. Demonstrate Mastery Review Questions/Answers
+	A. Objective Challenge: Painting The Outdoors
+		
+		1. https://codepen.io/jcork4real/pen/mdJqqQK
+	
+	B. Selector Challenge: Inheritence & Specificity Challenge
+
+
+		1. https://codepen.io/jcork4real/pen/YzXEYyj
