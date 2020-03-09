@@ -4,7 +4,7 @@ I. Link to completed CodePen from part two:
 		
 
 
-II. Stretch Review Questions: 
+II. Review Questions: 
 
     1. What is Semantic HTML? 
 		Use of markups to reinforce meaning.
@@ -171,6 +171,14 @@ II. Stretch Review Questions:
 
     37. Walk me through Lambda's git flow. 
 
+	1. Create YOUR OWN version of Repo —> (Fork)
+
+	2. Add your TL as a collaborator
+	3. Clone YOUR Repo
+	4. Create a branch (the one you are going to be working on)
+	5. Push your new branch up to GitHub and make all future pushes to that branch
+	6. Add your TL as a reviewer on the Pull Request
+	
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
