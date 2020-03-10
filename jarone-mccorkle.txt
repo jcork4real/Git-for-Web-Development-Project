@@ -59,7 +59,7 @@ II. Review Questions:
 
 		css example:
 
-				example-id {  
+				#example-id {  
   					color: gold;  
 				}  	
 		
