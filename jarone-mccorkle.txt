@@ -119,7 +119,7 @@ II. Review Questions:
 		It is usefull because of specificity and inheritance. Specificity is the concept we use to describe the ability to style many elements or just one element using CSS selectors. 		
 		
     23. How do you select all links within a div with the class of sidebar?
-			.sidebar a{...}
+			div .sidebar{...}
 
     24. What is a pseudo selector?
 		A pseudo-class is a selector that assists in the selection of something that cannot be expressed by a simple selector.
